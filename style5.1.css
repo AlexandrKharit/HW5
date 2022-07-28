@@ -1,0 +1,77 @@
+table {
+		width: 80%;
+		height: 700px;
+		margin: 0 auto;
+		border-collapse: collapse;
+		text-align: center;
+		font-family: Arial, sans-serif;
+	}
+	th {
+		border: 1px solid black;
+
+	}
+	td {
+		border: 1px solid black;
+		
+	}
+	.col-1 {
+			background-color:#ffff00;
+		}
+	.col-2 {
+			background-color:#ffff00;
+		}
+	.col-3 {
+			background-color: #87cefa;
+			width: 22%
+		}
+	.col-4 {
+			background-color: #ffa07a;
+			width: 22%
+		}
+	.col-5 {
+			background-color: #7fffd4;
+			width: 22%
+		}
+	.col-6 {
+			background-color: #dda0dd;
+			width: 22%
+		}
+		.a {
+			height: 7px;
+			font-family: Edu SA Beginner;
+			font-size: 14px;
+		}
+		.b {
+			height: 7px;
+			font-family: Edu SA Beginner;
+			font-size: 14px;
+		}
+		.c {
+			height: 7px;
+			font-family: Edu SA Beginner;
+			font-size: 14px;
+	    }
+	    .a1 {
+	    	font-weight: 700;
+	    }
+	    .a2 {
+	    	font-family: Edu SA Beginner; 
+	    	   	
+			font-size: 20px;
+			height: 8px;
+	    }
+	    .a3 {
+	    	font-family: Edu SA Beginner; 
+	    	   	
+			font-size: 20px;
+	    }
+	    .a4 {
+	    	font-family: Edu SA Beginner;  
+	    		
+			font-size: 20px;
+	    }
+	    .a5 {
+	    	font-family: Edu SA Beginner;
+	    	    	
+			font-size: 20px;
+	    }
